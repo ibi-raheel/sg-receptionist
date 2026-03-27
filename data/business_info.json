@@ -1,0 +1,22 @@
+{
+  "business_name": "SG CPA",
+  "industry": "Certified Public Accounting",
+  "hours": {
+    "monday": "9:00 AM - 5:00 PM",
+    "tuesday": "9:00 AM - 5:00 PM",
+    "wednesday": "9:00 AM - 5:00 PM",
+    "thursday": "9:00 AM - 5:00 PM",
+    "friday": "9:00 AM - 5:00 PM",
+    "saturday": "Closed",
+    "sunday": "Closed"
+  },
+  "address": "555 Republic Dr., Plano, TX",
+  "phone": "",
+  "services": [
+    "Accounting",
+    "Bookkeeping",
+    "Tax Preparation",
+    "Payroll Services"
+  ],
+  "after_hours_message": "Our office is currently closed. Our hours are Monday through Friday, 9 AM to 5 PM. Please call back during business hours."
+}
